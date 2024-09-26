@@ -2,17 +2,20 @@
 ### NAME : V RAKSHA DHARANIKA
 ### REF  : 212223230167
 ### DEP  :  AIDS
-## AIM
+## AIM:
 To write a python program for creating Chat using TCP Sockets Links.
+
 ## ALGORITHM:
 1. Import the necessary modules in python
 2. Create a socket connection to using the socket module.
 3. Send message to the client and receive the message from the client using the Socket module in
  server
 4. Send and receive the message using the send function in socket.
-## PROGRAM
-### SERVER
-```PY
+   
+## PROGRAM:
+
+### Server:
+```
 import socket
 
 # Create a socket object
@@ -57,8 +60,9 @@ while True:
 client_socket.close()
 server_socket.close()
 ```
-### CLIENT 
-```PY
+
+### Client:
+```
 import socket
 
 # Create a socket object
@@ -95,7 +99,9 @@ while True:
 # Close the connection
 client_socket.close()
 ```
-## OUTPUT
+
+## OUPUT:
+
 ### Server:
 ![image](https://github.com/user-attachments/assets/4ee75c07-bb1b-4706-a777-7b156db750ae)
 
@@ -103,5 +109,4 @@ client_socket.close()
 ![image](https://github.com/user-attachments/assets/fc20297e-2ba2-49c6-9c60-25f704334a05)
 
 ## RESULT
-Thus, the python program for creating Chat using TCP Sockets Links was successfully 
-created and executed.
+Thus, the python program for creating Chat using TCP Sockets Links was successfully created and executed.
