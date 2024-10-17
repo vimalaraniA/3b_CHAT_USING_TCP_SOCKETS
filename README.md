@@ -1,7 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-### NAME : V RAKSHA DHARANIKA
-### REF  : 212223230167
-### DEP  :  AIDS
+### NAME : Vimala Rani A
+### REF NO : 212223040240
 ## AIM:
 To write a python program for creating Chat using TCP Sockets Links.
 
